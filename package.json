@@ -1,0 +1,29 @@
+{
+  "family": "",
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "puzzle",
+  "homepage": "https://github.com/fengbaozhiling/puzzle",
+  "author": "zhongliangwen",
+  "maintainers": [
+    "zhongliangwen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fengbaozhiling/puzzle.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "puzzle.js",
+      "puzzle.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
